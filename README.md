@@ -3,7 +3,6 @@
 - 👀 I’m interested in Statistics, Technology & Data Analytics.
 - 💻 I’m currently learning programming skills, mainly Python and R.
 - 📫 How to reach me: linkedin.com/in/samira-azizi-253747227
-- 🏷️ Pronouns: she/her
 
 <!---
 samira-azizi/samira-azizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
