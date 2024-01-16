@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Samira Azizi
+- 👋 Hi, I’m Samira Azizi!
 - 📖 Currently an undergaduate Mathematics Student.
 - 👀 I’m interested in Statistics, Technology & Data Analytics.
-- 💻 I’m currently learning Python and R.
-- 📫 How to reach me linkedin.com/in/samira-azizi-253747227
+- 💻 I’m currently learning programming skills, mainly Python and R.
+- 📫 How to reach me: linkedin.com/in/samira-azizi-253747227
 - 🏷️ Pronouns: she/her
 
 <!---
