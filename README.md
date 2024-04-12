@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Samira Azizi!
+- Hi, I’m Samira Azizi!
+- 
 - 🎓 Currently an undergraduate mathematics student, with an interest in statistics, particularly medical statistics.
 - 🔎 I'm passionate about working with data and actively improving my skills in Python, R, and SAS to gain insights from datasets.
 - 📊 Beyond my academic studies, I'm looking to gain experience in applying statistical concepts to help improve research in biostatistics.
