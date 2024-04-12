@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Samira Azizi!
-- 📖 Currently an undergaduate Mathematics Student.
-- 👀 I’m interested in Statistics, Technology & Data Analytics.
-- 💻 I’m currently learning programming skills, mainly Python and R.
-- 📫 How to reach me: linkedin.com/in/samira-azizi-253747227
+- 🎓 Currently an undergraduate mathematics student, with an interest in statistics, particularly medical statistics.
+- 🔎 I'm passionate about working with data and actively improving my skills in Python, R, and SAS to gain insights from datasets.
+- 📊 Beyond my academic studies, I'm looking to gain experience in applying statistical concepts to help improve research in biostatistics.
+- 🔗 I'm enthusiastic about the opportunities ahead and keen to connect with like-minded individuals in the fields of health & statistics.
+- 📫 linkedin.com/in/samira-azizi-253747227
 
 <!---
 samira-azizi/samira-azizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
